@@ -1,4 +1,4 @@
-## Retail Sales Data Analysis
+## RETAIL SALES ANALYSIS
 
 
 # Overview
@@ -19,8 +19,12 @@ This project explores retail transaction data using Python, Pandas, and Matplotl
 - Matplotlib
 - Jupyter Notebook
 # Project structure
+
+
 retail-sales-analysis/
 ├── data/
+
+
 │   └── retail_sales_dataset.csv
 ├── notebooks/
 │   └── retail_sales_analysis.ipynb
