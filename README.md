@@ -1,4 +1,6 @@
-<img width="2172" height="724" alt="f7cc9114-f944-4067-84df-de793445c128" src="https://github.com/user-attachments/assets/7f9ea996-ecff-419e-aeee-268656513a77" />## Retail Sales Data Analysis
+## Retail Sales Data Analysis
+
+
 # Overview
 This project explores retail transaction data using Python, Pandas, and Matplotlib. It summarizes sales performance, compares product categories, examines monthly revenue, and explores customer demographics and category preferences by gender.
 
