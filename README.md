@@ -21,14 +21,23 @@ This project explores retail transaction data using Python, Pandas, and Matplotl
 # Project structure
 
 
-retail-sales-analysis/
+retail-sales-analysis
+/
 ├── data/
 
 
 │   └── retail_sales_dataset.csv
+
+
 ├── notebooks/
+
+
 │   └── retail_sales_analysis.ipynb
+
+
 └── README.md
+
+
 Place the CSV file in data/ and the notebook in notebooks/. The notebook uses a relative path, so it does not depend on a specific Windows username or download folder.
 
 # Project workflow
